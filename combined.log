@@ -1,0 +1,20 @@
+{"level":"info","message":"Сервер запущено на порту 5000","timestamp":"2025-02-26T19:13:43.740Z"}
+{"level":"info","message":"Підключення до MySQL встановлено успішно","timestamp":"2025-02-26T19:13:43.790Z"}
+{"level":"info","message":"База даних MySQL синхронізована","timestamp":"2025-02-26T19:13:44.048Z"}
+{"level":"warn","message":"Маршрут не знайдений: POST /borrowed","timestamp":"2025-02-26T19:15:17.996Z"}
+{"level":"info","message":"Сервер запущено на порту 5000","timestamp":"2025-02-26T19:22:21.942Z"}
+{"level":"info","message":"Підключення до MySQL встановлено успішно","timestamp":"2025-02-26T19:22:21.992Z"}
+{"level":"info","message":"База даних MySQL синхронізована","timestamp":"2025-02-26T19:22:22.232Z"}
+{"level":"warn","message":"Маршрут не знайдений: POST /borrowed/borrowed","timestamp":"2025-02-26T19:23:29.601Z"}
+{"level":"warn","message":"Маршрут не знайдений: POST /borrowed","timestamp":"2025-02-26T19:23:37.106Z"}
+{"level":"info","message":"Список виданих книг отриманий","timestamp":"2025-02-26T19:23:48.975Z"}
+{"level":"warn","message":"Маршрут не знайдений: GET /borrowed/return/1","timestamp":"2025-02-26T19:24:38.954Z"}
+{"level":"warn","message":"Маршрут не знайдений: POST /borrowed/return/1","timestamp":"2025-02-26T19:25:00.585Z"}
+{"level":"warn","message":"Маршрут не знайдений: POST /borrowed/return/1","timestamp":"2025-02-26T19:25:07.385Z"}
+{"level":"warn","message":"Маршрут не знайдений: POST /borrowed/return/1","timestamp":"2025-02-26T19:25:15.849Z"}
+{"level":"warn","message":"Маршрут не знайдений: PATCH /borrowed/return/1","timestamp":"2025-02-26T19:27:03.522Z"}
+{"level":"warn","message":"Маршрут не знайдений: HEAD /borrowed/return/1","timestamp":"2025-02-26T19:27:06.805Z"}
+{"level":"info","message":"Сервер запущено на порту 5000","timestamp":"2025-03-16T12:26:23.928Z"}
+{"level":"info","message":"Підключення до MySQL встановлено успішно","timestamp":"2025-03-16T12:26:23.976Z"}
+{"level":"info","message":"База даних MySQL синхронізована","timestamp":"2025-03-16T12:26:24.314Z"}
+{"level":"info","message":"Користувача зареєстровано: user1@example.com","timestamp":"2025-03-16T12:26:39.632Z"}
